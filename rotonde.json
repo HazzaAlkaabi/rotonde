@@ -1,0 +1,31 @@
+{
+  "profile":
+  {
+    "name":"Hazza Alkaabi",
+    "location":"Tucson",
+    "color":"#FEF4D9"
+  },
+  "feed":
+  [
+      {
+        "time":"1498254942",
+        "text":"Created a Rotonde json file."
+      },
+      {
+          "time":"1498255224",
+          "text":"Created a GitHub repo for my Rotonde JSON file."
+      },
+      {
+          "time":"1498258312",
+          "text":"Sat up the subdomain rotonde.hazzaalkaabi.com on my VPS pandemonium"
+      },
+      {
+          "time":"1498259540",
+          "text":"Sat up the nginx server blocks in the VPS pandemonium."
+      }
+  ],
+  "portal":
+  [
+    "rotonde.xxiivv.com"
+  ]
+}
